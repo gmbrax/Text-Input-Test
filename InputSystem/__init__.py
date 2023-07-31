@@ -1,5 +1,5 @@
-from .System.InputSystem import InputSystem as Input
+from .States import *
+from .System import *
 
-__all__ = [Input]
 
 __version__ = "0.0.1 PreAlpha"
